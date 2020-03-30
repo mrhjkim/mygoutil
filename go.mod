@@ -1,4 +1,4 @@
-module github.com/mrhjkim/mygoutil.git
+module github.com/mrhjkim/mygoutil
 
 go 1.13
 
